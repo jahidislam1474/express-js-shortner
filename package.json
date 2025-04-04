@@ -11,8 +11,9 @@
   "dependencies": {
     "@netlify/functions": "^3.0.4",
     "cookie-parser": "^1.4.6",
+    "dotenv": "^16.4.7",
     "ejs": "^3.1.8",
-    "express": "^4.18.2",
+    "express": "^4.21.2",
     "mongoose": "^6.9.0",
     "nanoid": "^4.0.0",
     "nodemon": "^2.0.20",
